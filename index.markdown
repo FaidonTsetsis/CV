@@ -43,6 +43,12 @@
     <p> Cryptography workshop hosted by Ionian University for a weekend</p>
 </article>
   </div>
+  <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Email:</li><li><a class="u-email" href="mailto:p18tset1@ionio.gr">p18tset1@ionio.gr</a></li></ul>
+      </div>
+
+      
 <!--</body>
 </html>-->
 
