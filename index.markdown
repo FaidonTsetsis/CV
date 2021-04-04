@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
 
-</header>
+
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <article class="post">
@@ -42,12 +42,6 @@
     <p> Participation in MLH-hackathon hosted by Github - infrastructural supported by Ionian University</p>
     <p> Cryptography workshop hosted by Ionian University for a weekend</p>
 </article>
-
-     
-
   </div>
-
-</footer>
 </body>
-
 </html>
